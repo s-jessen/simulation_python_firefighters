@@ -69,6 +69,10 @@ The simulation structure is shown schematically below:
 
 ## Setup
 Clone the repo
+```bash
+git clone https://github.com:s-jessen/simulation_python_firefighters.git
+```
+
 For full reproducibility, create a virtual environment. This setup uses venv and pip-tools:
 
 ```bash
